@@ -1,0 +1,6 @@
+[submodule "nodejsChat"]
+	path = nodejsChat
+	url = https://github.com/lukasbee1/nodejsChat
+[submodule "chat_front"]
+	path = chat_front
+	url = https://github.com/lukasbee1/chat_front
